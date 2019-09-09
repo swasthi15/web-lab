@@ -1,0 +1,15 @@
+student{
+display:block; margin-top:10px; 
+}
+display{
+background-color:#AAECD1;
+}
+USN{
+display:block; margin-left:10px;font-size:15pt; color:Black;
+}
+name,clg,branch,yr,e-mail{
+display:block; margin-left:20px;font-size:12pt; color:Red;
+}
+student{
+max-width:50%;margin:auto; 
+}
