@@ -3,27 +3,27 @@
 <student>
 <stud>
 <USN>USN : 4VV16CS001</USN>
-<name>NAME : ABC</name>
+<name>NAME : Archana</name>
 <clg>COLLEGE : VVCE</clg>
-<branch>BRANCH : Computer Science and Engineering</branch>
-<yr>YEAR : 2020</yr>
-<e-mail>E-Mail : vvcs@gmail.com</e-mail>
+<branch>BRANCH : CS</branch>
+<yr>YEAR : 2016</yr>
+<e-mail>E-Mail : archana@gmail.com</e-mail>
 </stud>
 <stud>
-<USN>USN : 4VV16IS090</USN>
-<name>NAME : PQR</name>
+<USN>USN : 4VV16CS010</USN>
+<name>NAME : Bhoomika</name>
 <clg>COLLEGE : VVCE</clg>
-<branch>BRANCH : Information Science and Engineering</branch>
-<yr>YEAR : 2020</yr>
-<e-mail>E-Mail : vvis@gmail.com</e-mail>
+<branch>BRANCH : CS</branch>
+<yr>YEAR : 2016</yr>
+<e-mail>E-Mail : bhoomika@gmail.com</e-mail>
 </stud>
 <stud>
-<USN>USN : 4VV16ME120</USN>
-<name>NAME : XYZ</name>
+<USN>USN : 4VV16ME100</USN>
+<name>NAME :Swathi</name>
 <clg>COLLEGE : VVCE</clg>
-<branch>BRANCH : Mechanical Engineering</branch>
-<yr>YEAR : 2020</yr>
-<e-mail>E-Mail : vvme@gmail.com</e-mail>
+<branch>BRANCH : CS</branch>
+<yr>YEAR : 2017</yr>
+<e-mail>E-Mail : swathi@gmail.com</e-mail>
 </stud>
 </student>
 
