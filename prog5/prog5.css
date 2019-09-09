@@ -5,10 +5,13 @@ display{
 background-color:#AAECD1;
 }
 USN{
-display:block; margin-left:10px;font-size:15pt; color:Black;
+display:block; margin-left:10px; margin-top:20px;margin-bottom:20px;font-size:15pt; color:Black;
 }
-name,clg,branch,yr,e-mail{
-display:block; margin-left:20px;font-size:12pt; color:Red;
+name,clg,branch,yr{
+display:block; margin-left:20px;margin-bottom:10px;font-size:12pt; color:Red;
+}
+e-mail{
+display:block; margin-left:20px;margin-bottom:20px;font-size:12pt; color:Red;
 }
 student{
 max-width:50%;margin:auto; 
